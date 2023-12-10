@@ -1,0 +1,1 @@
+## Structure and flow of a typical/basic machine learning project
